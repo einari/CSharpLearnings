@@ -16,3 +16,6 @@ https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/tutorials/inheritanc
 
 Polymorphism:
 https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/object-oriented/polymorphism
+
+Attributes:
+https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/attributes/
