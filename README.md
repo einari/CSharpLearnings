@@ -1,5 +1,11 @@
 #
 
+Getting started:
+
+```shell
+$ dotnet watch run
+```
+
 ## C# Fundamentals
 
 Type system:
